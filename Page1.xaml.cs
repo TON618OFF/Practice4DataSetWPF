@@ -58,6 +58,7 @@ namespace Practice4DataSetWPF
             SearchText.Visibility = Visibility.Collapsed;
             btn_reset.Visibility = Visibility.Collapsed;
             btn_search.Visibility = Visibility.Collapsed;
+            NextPage.Visibility = Visibility.Collapsed;
             
         }
     }
